@@ -139,3 +139,5 @@ If you have questions about these processes or suggestions for improvement:
 
 **Last Updated:** June 2026  
 **Version:** 1.0
+
+Documentation maintained through GitHub Copilot Spaces.
