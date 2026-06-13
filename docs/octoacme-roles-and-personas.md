@@ -73,6 +73,21 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Risk registers and decision logs
 - Coordination via project boards and meeting facilitation
 
+## Release Manager
+Responsible for coordinating releases, deployment readiness, and stakeholder communication.
+
+## DevOps Owner
+Responsible for CI/CD pipelines, deployment automation, and infrastructure reliability.
+
+## QA Lead
+Responsible for test strategy, quality metrics, and release sign-off.
+
+## Change Manager
+Responsible for evaluating process changes and ensuring stakeholder alignment.
+
+## Project Coordinator
+Supports project tracking, scheduling, and communication across teams.
+
 ---
 
 ## How these personas are used in the exercise
